@@ -1,1 +1,8 @@
 Git History:
+
+1. Linus Torvalds started developing Git in 2005 after an open source SCM (source-control management) software
+	by the name "BitKeeper" was withdrawn from free usage by its creator.
+
+2. Linus wanted to create an SCM with strong safeguards against any kind of corruption.
+
+3. Git was created in a month by Linus and he used It to release the new linux kernel.
