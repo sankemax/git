@@ -47,5 +47,5 @@
 5. *git show* [HEAD~1/x]
 6. *git reset* [--hard]
 7. Conflict resolultion and *git revert*
-8. *git rebase*
+8. *git rebase* [--interactive]
 9. *git cherry-pick*
